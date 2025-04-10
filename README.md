@@ -16,13 +16,3 @@ Additionally, the app supports:
 
 This is a CLI-based backend-focused app, designed for ease of use, accuracy, and clarity of financial tracking.
 
----
-
-## 🚀 How to Run
-
-### ✅ Using Python (Local Machine)
-
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/<your-username>/expense-tracker.git
-   cd expense-tracker
